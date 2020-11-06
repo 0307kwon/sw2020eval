@@ -17,7 +17,7 @@
   - 정보 : 드론의 위치, 상태 등을 나타내고 실시간으로 이동 목표 위치를 드론에게 전송하는 Gui
   
 - [mydrone_gui_planner_package](https://github.com/0307kwon/mydrone_gui_planner_package)
-  - 연수기간: 2020.01 ~ 2020.07
+  - 연수기간: 2020.01 ~ 2020.09
   - 참여연구실: 이현범 교수님, IASL 연구실  
   - 정보 : mydrone_gui_keyboard를 [HKUST의 장애물 회피 알고리즘](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)과 함께 사용하기 위해 만든 버전으로
       depth 카메라가 달린 드론이 실시간 장애물 회피가 가능하도록 설계
