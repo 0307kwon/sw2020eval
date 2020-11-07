@@ -3,7 +3,7 @@
 
 ## 교과목형
 - [EECS462001 멀티미디어시스템개론 / 2020년 1학기 / 박순용](https://github.com/0307kwon/2020.1_MultimediaSystem)
-- [ITEC401010 졸업프로젝트1 / 2020년 1학기 / 박순용](https://github.com/0307kwon/kesla_project)
+- [ITEC401010 졸업프로젝트1,2 / 2020년 1~2학기 / 박순용](https://github.com/0307kwon/kesla_project)
   - 프로젝트 이름 : 붕괴 위기가 있는 건물에서의 조난자 탐색 로봇
   - 정보 : 길을 따라 자율 주행 후 붕괴 위기의 건물로 진입하여 건물 안을 모두 둘러보면서 사람 얼굴을 인식하게 되면 해당 위치를 표시해주고 다시 출구로 나오는 로봇 
 - [ITEC411001 사물 컴퓨팅 이론 및 실습 / 2019년 2학기 / 강순주](https://github.com/0307kwon/2019.2_gyroWheelchair)
