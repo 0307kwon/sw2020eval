@@ -9,9 +9,6 @@
     가능한 프로그래밍 언어는 c, c++, javascript이며 현재는 웹 프로그래머를 목표로 javascript 공부에 집중하고 있습니다.
 
     사용자와 적극 소통하며 완성도있는 코드를 설계하는 프로그래머를 목표로 하고 있습니다. 
-    
- Notion : https://www.notion.so/Se-Jin-Kwon-00efb7fd292c4af0b03421dd639134b3
-
 
 ## 교과목형
 - [EECS462001 멀티미디어시스템개론 / 2020년 1학기 / 박순용](https://github.com/0307kwon/2020.1_MultimediaSystem)
@@ -41,4 +38,8 @@
   
  
 ## 기타
-- 내용과 이유 등
+- [Notion](https://www.notion.so/Se-Jin-Kwon-00efb7fd292c4af0b03421dd639134b3)
+  - 기간 : 2020.09 ~ 현재
+  - 정보 : 웹 공부의 과정들을 모아놓은 포트폴리오 사이트입니다.
+
+ 
